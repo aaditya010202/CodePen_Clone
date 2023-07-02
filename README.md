@@ -1,4 +1,4 @@
-# Deployed website: [https://code-pen-clone191.netlify.app]
+# Deployed website: https://code-pen-clone191.netlify.app
 
 # Screenshots:
 
